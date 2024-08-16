@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-13.6390 -10.0484 -18.7449 9.3852 1.6462 3.4635" area="53" targetId="0b6431f6be1b4c1e825d084aa73e35db" name="SilurianSeas" pathAuthoring="0b6431f6be1b4c1e825d084aa73e35db_authoring.glb" pathOcclusion="0b6431f6be1b4c1e825d084aa73e35db_occlusion.3dt" pathNavMesh="0b6431f6be1b4c1e825d084aa73e35db_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

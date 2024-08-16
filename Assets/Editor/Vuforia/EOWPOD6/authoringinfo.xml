@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-116.7070 -14.0554 -113.5165 11.4536 110.6244 22.1767" area="113" targetId="6ac53f69486248f9ac84b1bdc5f7a6f3" name="EOWPOD6" pathAuthoring="6ac53f69486248f9ac84b1bdc5f7a6f3_authoring.glb" pathOcclusion="6ac53f69486248f9ac84b1bdc5f7a6f3_occlusion.3dt" pathNavMesh="6ac53f69486248f9ac84b1bdc5f7a6f3_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

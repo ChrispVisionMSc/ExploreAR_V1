@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="1.7756 -5.1686 0.3101 24.4954 4.2320 17.3226" area="55" targetId="bfa1923b26f948119ede462070052d2e" name="IceAge" pathAuthoring="bfa1923b26f948119ede462070052d2e_authoring.glb" pathOcclusion="bfa1923b26f948119ede462070052d2e_occlusion.3dt" pathNavMesh="bfa1923b26f948119ede462070052d2e_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

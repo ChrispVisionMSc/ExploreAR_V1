@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-5.9695 -4.6492 -7.5433 10.4939 1.5021 8.8110" area="60" targetId="ba5e9a5eef674e20bea0e312d3b635df" name="ancientoceans01" pathAuthoring="ba5e9a5eef674e20bea0e312d3b635df_authoring.glb" pathOcclusion="ba5e9a5eef674e20bea0e312d3b635df_occlusion.3dt" pathNavMesh="ba5e9a5eef674e20bea0e312d3b635df_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

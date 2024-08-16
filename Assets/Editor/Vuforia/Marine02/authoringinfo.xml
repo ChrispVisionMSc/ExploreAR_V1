@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-2.7974 -6.8172 -6.9948 20.1726 2.6195 20.9774" area="70" targetId="d5c909bf1ce84681839566e8e1dbe5f9" name="Marine02" pathAuthoring="d5c909bf1ce84681839566e8e1dbe5f9_authoring.glb" pathOcclusion="d5c909bf1ce84681839566e8e1dbe5f9_occlusion.3dt" pathNavMesh="d5c909bf1ce84681839566e8e1dbe5f9_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
