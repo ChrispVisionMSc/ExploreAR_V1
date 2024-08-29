@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/SamplesResources/Scenes/0-Main.unity
     guid: a09cb257d566c489595b16ab37547666
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/EOW_ExploreAR_Test.unity
     guid: 0377c60790e291143b8dab6dc7394533
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Marine_AR.unity
     guid: 0dc7b088477db8349abcd22ea9b52962
   m_configObjects: {}
