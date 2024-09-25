@@ -147,7 +147,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100016, guid: 2c00ad11554fe1d4c95235abbf8bf4fc, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 100018, guid: 2c00ad11554fe1d4c95235abbf8bf4fc, type: 3}
       propertyPath: m_IsActive
@@ -422,7 +422,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PreviewVisible: 1
-  RuntimeOcclusion: 0
+  RuntimeOcclusion: 1
   RuntimeCollider: 0
   mTrackableName: Marine03
   mInitializedInEditor: 1
@@ -551,7 +551,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PreviewVisible: 1
-  RuntimeOcclusion: 0
+  RuntimeOcclusion: 1
   RuntimeCollider: 0
   mTrackableName: Marine01
   mInitializedInEditor: 1
@@ -686,7 +686,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PreviewVisible: 1
-  RuntimeOcclusion: 0
+  RuntimeOcclusion: 1
   RuntimeCollider: 0
   mTrackableName: Marine02
   mInitializedInEditor: 1
@@ -1198,7 +1198,7 @@ PrefabInstance:
     - target: {fileID: 3081152200440891678, guid: 00793fefcc10867418f657f364387b0e,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
