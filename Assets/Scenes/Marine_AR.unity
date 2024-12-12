@@ -361,7 +361,7 @@ GameObject:
   - component: {fileID: 424735037}
   - component: {fileID: 424735038}
   m_Layer: 0
-  m_Name: Spline
+  m_Name: SplineOctopus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1535,7 +1535,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4440659617704368, guid: 9ebb79b19fad02841b7d9b7d4bb4a540, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.272
+      value: -0.296
       objectReference: {fileID: 0}
     - target: {fileID: 4440659617704368, guid: 9ebb79b19fad02841b7d9b7d4bb4a540, type: 3}
       propertyPath: m_LocalPosition.z
