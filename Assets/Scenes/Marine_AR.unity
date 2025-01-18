@@ -515,7 +515,7 @@ GameObject:
   - component: {fileID: 541130200}
   - component: {fileID: 541130203}
   m_Layer: 0
-  m_Name: AreaTarget
+  m_Name: AreaTarget3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -644,7 +644,7 @@ GameObject:
   - component: {fileID: 605937926}
   - component: {fileID: 605937929}
   m_Layer: 0
-  m_Name: AreaTarget
+  m_Name: AreaTarget1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -781,7 +781,7 @@ GameObject:
   - component: {fileID: 726378736}
   - component: {fileID: 726378739}
   m_Layer: 0
-  m_Name: AreaTarget
+  m_Name: AreaTarget2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
